@@ -20,6 +20,7 @@ export default class FakeFlow extends Component<FakeFlowProps> {
                     <Text>The user id: {this.props.userId}</Text>
                     <Text>The item id to buy: {this.props.itemId}</Text>
                     <Text>The video id: {this.props.videoId}</Text>
+                    <Text>Action Jackson</Text>
                 </View>
                 <TouchableHighlight
                     onPress={
