@@ -6,6 +6,10 @@
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest"
   },
+  "repository": {
+        "type": "git",
+        "url": "git@gitlab.sudaotech.com:aibs/paymentFlow.git"
+    },
   "dependencies": {
     "react": "16.4.1",
     "react-native": "0.56.0"
