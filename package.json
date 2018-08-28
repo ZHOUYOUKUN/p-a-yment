@@ -2,11 +2,5 @@
   "name": "paymentFlow",
   "version": "0.0.1",
   "main": "App.js",
-  "license": "MIT",
-  "author": "<sudao@kuaicto.com>",
-  "repository": {
-        "type": "git",
-        "url": "git@gitlab.sudaotech.com:aibs/paymentFlow.git"
-    }
-
+  "license": "MIT"
 }
